@@ -2,7 +2,7 @@
 
 1.  **Product Overview**
     1.1 **Product Name**
-    Stickly WhatsApp sticker Organizer
+    Stickly WhatsApp Sticker Organizer
 
     1.2 **Objective**
     Enable users to organize their existing WhatsApp stickers into custom packs, enhancing communication efficiency by making stickers easily accessible and searchable within WhatsApp conversations. The app dynamically generates contents.json metadata for Android with robust validation, prioritizing emoji tagging for searchability and accessibility text for inclusivity.
